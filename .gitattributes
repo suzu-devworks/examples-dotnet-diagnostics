@@ -1,0 +1,15 @@
+# .gitattributes
+
+# make sure everyone has the same behavior for all files
+* text=auto
+
+# set explicit behaviors for the file types we care about
+*.cs text diff=csharp
+*.csproj text
+*.props text
+*.targets text
+*.md text
+*.snk binary
+
+# ensure this can be open by VS even if copied from unix to windows
+*.sln text eol=crlf
