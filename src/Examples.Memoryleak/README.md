@@ -13,6 +13,7 @@ wait enter...
 
 ## VMMap
 
+<img src="../../docs/images/Examples_Crash_Problem_MemoryLeak_VMMap.png" width="70%">
 
 ## Analyze Crash Dump
 

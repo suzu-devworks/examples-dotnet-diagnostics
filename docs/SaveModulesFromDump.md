@@ -48,5 +48,5 @@ section 2 - VA=6000, VASize=c, FileAddr=1600, FileSize=200
 
 ### View Saved Module
 
-<img src="../../docs/images/Examples_Crash_Save_Module_ILspy.png" width="70%">
+<img src="images/Examples_Crash_Save_Module_ILspy.png" width="70%">
 
